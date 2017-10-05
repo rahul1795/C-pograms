@@ -1,3 +1,5 @@
+// This program finds the addition of two matrices
+
 #include <stdio.h>
 #include <stdlib.h>
 
